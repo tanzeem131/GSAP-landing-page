@@ -13,7 +13,7 @@ body {
 }
 
 #main {
-  height: 100%;
+  height: 80%;
   width: 100%;
   background-color: black;
 }
@@ -59,7 +59,7 @@ body {
   text-align: center;
 }
 
-img {
+.allImg {
   height: 400px;
   position: absolute;
   top: 12%;
@@ -70,4 +70,13 @@ img {
 }
 #img2 {
   rotate: 10deg;
+}
+.gif {
+  height: 20%;
+  width: 100%;
+  background-color: black;
+}
+#img4 {
+  height: 190px;
+  border-radius: 50%;
 }
