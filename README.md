@@ -12,4 +12,4 @@
 
 ## Live Website
 
-Explore the live GSAP landing page practice project: [GSAP Landing Page]("")
+Explore the live GSAP landing page practice project: [GSAP Landing Page](https://tanzeem131.github.io/GSAP-landing-page/)
